@@ -1,7 +1,7 @@
-# 안녕하세요! 😸✨  
-**🌟 저는 웹 개발을 꿈꾸는 개발자 **정희진** 입니다! 🎉**
-React와 Java Spring을 주력으로, **창의적인 아이디어를 실현하는 웹**을 만드는 데 열정을 가지고 있습니다!
-항상 새로운 것을 배우고, 웹에서 더 나은 사용자 경험을 만드는 것이 목표입니다! 🚀
+# 안녕하세요! 😸✨    
+**🌟 저는 웹 개발을 꿈꾸는 개발자, _정희진(Jeong Hee Jin)_ 입니다! 🎉**  
+🚀 "React와 Java Spring을 주력으로, **창의적인 아이디어를 실현하는 웹**을 만드는 데 열정을 가지고 있습니다!
+항상 새로운 것을 배우고, 웹에서 더 나은 사용자 경험을 만드는 것이 목표입니다!"  
 
 ---
 
@@ -18,15 +18,18 @@ React와 Java Spring을 주력으로, **창의적인 아이디어를 실현하�
 
 ### 🖥️ **프론트엔드**
 - **React**:  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)    
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+  - 컴포넌트 기반 UI 설계 및 Axios로 API 통신 구현 경험
 
 ### 🌱 **백엔드**
 - **Java Spring**:  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)  
+  - RESTful API 설계 및 Spring Security를 통한 로그인 인증 구현 경험
 
 ### 🗂️ **데이터베이스**
 - **MySQL**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+  - 데이터 모델링 및 SQL 쿼리를 통한 데이터 조회/저장 구현 경험 
 
 ### 🧑‍💻 **프로그래밍 언어**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  
@@ -50,5 +53,5 @@ React와 Java Spring을 주력으로, **창의적인 아이디어를 실현하�
 ---
 
 💖 **앞으로 더 성장하는 개발자가 되겠습니다!**  
-"함께 성장하고, 더 나은 웹을 만들어 나가보아요~~" 🎉
+더 나은 개발자로 성장해, 제가 만든 서비스로 누군가의 하루를 편리하게 만드는 날을 꿈꿉니다. 🌟  
 
